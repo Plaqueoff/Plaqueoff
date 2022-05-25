@@ -1,7 +1,7 @@
 # Hello There!
 
 My name is Pekka and I'm currently studying for a masters degree in computer science at the University of Eastern Finland. Below you can find coding projects 
-I've been apart of or done by myself and descriptions of these projects.
+I've been part of or done by myself and descriptions of these projects.
 
 
 ## Whiteboard
